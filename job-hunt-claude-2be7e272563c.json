@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "job-hunt-claude",
+  "private_key_id": "2be7e272563ca966d36433617b75bd1cbcc80b3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC69qM8BPfnU2Ht\nJ8u9CEFWNuhvBw3bJXalJCtbTzKYkyA/Aa1M7vJHjVONpZfZVABIq0bmLkA9+BLu\nGyJb2Lw0bWQMEQvOzDPg1/w7KSGdH/z/Zf44x6jqAJbw7HNEtv9B+Br0k49qmJad\nfDlGDQIKI0BbyyTSMs7DOUordVpM+M1sI61ArCHXw20QMZIemUZH4HWfwH2xan6s\noiKxC+N5RFw9WoQ4YFwl8qCJBZ2zQXWMeZWZ22XrmqIKUDu7QqLFipMfXS7Ho7CD\nZJaxqOEJlOs0f/Nh2XWOkOzyfABsS8QpcMTmyKgnf1Ld68Dch3YEmQVIT72DsDhN\ne98dtw9xAgMBAAECggEABEjuyMtcWyLgFa1Z0AVGahFsFk9VE/ax12sSy07vW+vT\nS15geGjpiJZGmfJ3nnV8ZC34vAHHWyQ6WtaoXO6EsbboGhax7JVlgvuwPjLdIFrB\nU6EkyGxbBLHqw67HnYWMKBjllUFkgg7pNMbKET7vEwhnyzLGr0KW1oaTmpdf8G+h\nR5mOTRRDe5k9IKLj+DlhZFBGg/qsVHrr6cRJyW3MXOwdCoE/MF0E6Od/PUc74BOB\nv1VBGbyauEzPbNYbTOMgtNXV8mN+FRYnAk3fZ4CVi4y3wUexsmveZ8Iv0Di18Nl0\nsgXGwrwdTTtzrjOaMiPe2lKtkrwBBcmgHcGo1xiemQKBgQDrU7+bRwnt10nkul3C\nCAG/XkrR9SLFKJV5y4dr3d1VSv22W4AVawA0FowXs9hYeUzJLDVwnmZngR1h9jxa\n83Y/RWhTP1TPnOz4No8b89mx0OrcpnxAf9qWjvHoUjrypVU/SOurWhFQF1Dw626t\nfRm1+VxYvjxann6PAbwzN0YNSwKBgQDLYz3ont0UUtgsUbvZGhyJAoZ/1K62Sutz\nNO0cy8DT8CeiXjmXF6bXoDRmnNnmPSEEhUBSJnVBwX5R3UalTFPJbfmNN2SrbM3i\nJoFVAqs2sqdyxgMw/P/AuUyZLfhrQMJxMejYA4ijKvtvpDVsYtOA8sYQ254qWEzy\nsK/jrOzMswKBgF1QGSM2WQ6RlsB20eS1jhPXDO4SORZa0GK6PNmd4T0H/nDH+ZME\nmdENu8FOVBRJDRScThh5Bvw163PD0wzxi0rtd7/C1ht5C1IlODwKRqFGyUpzTcO5\nrvCSgAPyT2OWAaaVgLWygjjy9eqCQKHUgFRzK5YY4Q/B10dXlcvtN/7fAoGABnLp\nHZ0b6W8PB6i3yhR33yhDV35I4+LQQGDnO8iCHrY4q39NWCsZ0TB1OOO0TQaXK2uG\nNJSflywpczMO8GLRLUvdY8rj2EOk64zJAQcKortbb9ozc7Qx78xwT1MT02LER46L\nkX3bMUFFo66TOxKPHkGUYih0hWczWWaczR1IjN0CgYEA3hP9hCeUTys9nIwYgbZ0\nnl+yqqYhF84/UEnb3Gwlhi8WM9XzWh07IHNh9UCJQH6/TLhPucUt06xIGxCnd84v\n92sbxk1c6oNJsKPdiw7KSkEwZv5+v4nyANQQ5vK57OeP/1M1HNn270lh2NozYgb8\nI5Ynv+eOhMByr59iMmHGv+4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "claude-service-account@job-hunt-claude.iam.gserviceaccount.com",
+  "client_id": "103241042644719777892",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/claude-service-account%40job-hunt-claude.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

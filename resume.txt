@@ -1,0 +1,121 @@
+GAUTHAM POTHANA
+Java Full Stack Developer | Backend & Cloud Engineer
+Cincinnati, OH | gauthampothana007@gmail.com | 513-918-9550
+LinkedIn: linkedin.com/in/gauthampo | GitHub: github.com/gautham-hub001
+
+PROFESSIONAL SUMMARY
+Java Full Stack Developer with 4+ years of experience designing and delivering scalable,
+event-driven microservices and cloud-native applications on AWS. Proven record building
+high-availability backend systems processing 500K+ daily transactions with 99.9% uptime
+across fintech (SWIFT payments, money movement) and supply chain domains. Expertise in
+Java 17, Spring Boot, Apache Kafka, REST/GraphQL APIs, Angular/React, Docker, and
+Kubernetes, with applied experience in AI/ML and generative AI workflows. Strong
+contributor in Agile/Scrum environments focused on clean architecture, TDD, and
+measurable performance gains.
+
+TECHNICAL SKILLS
+Languages:         Java (8/11/17), Python, JavaScript, TypeScript, SQL
+Backend & APIs:    Spring Boot, Spring MVC, Spring Security, Spring Cloud,
+                   Hibernate/JPA, REST APIs, GraphQL, WebSockets, JAX-RS
+Frontend:          React.js (Redux, Redux Toolkit), Angular 15 (NgRx, RxJS),
+                   HTML5, CSS3, Bootstrap
+Messaging:         Apache Kafka, RabbitMQ, Event-Driven Architecture, Camunda BPMN,
+                   Micro-Frontend (Webpack Module Federation)
+Databases:         PostgreSQL, Oracle, SQL Server, MongoDB
+Cloud & DevOps:    AWS (EC2, S3, RDS, Lambda, IAM, CloudWatch), Docker, Kubernetes,
+                   Jenkins, GitLab CI/CD, Maven, Gradle
+Testing:           JUnit, Mockito, REST Assured, Jest, Jasmine, Karma, TDD
+Security:          OAuth 2.0, JWT, Role-Based Access Control (RBAC)
+Tools:             Agile/Scrum, SDLC, JIRA, Git, IntelliJ IDEA
+Domains:           Banking & Payments, SWIFT Messaging, Fund Transfers,
+                   Business e-Banking, Supply Chain, Warehouse Execution Systems (WES)
+
+PROFESSIONAL EXPERIENCE
+
+KPI Solutions — Cincinnati, OH | Dec 2023 – Present
+Java Full Stack Developer
+
+- Architected and delivered Spring Boot microservices (Java 17) using REST APIs,
+  Spring IOC/AOP, and Spring Cloud, supporting high-availability backend systems
+  processing 500K+ transactions daily with 99.9% uptime.
+- Implemented event-driven architecture using Apache Kafka and Spring AMQP, reducing
+  inter-service communication latency by 30% and improving system scalability at peak.
+- Led design and automation of Warehouse Execution System (WES) workflows using
+  Camunda BPMN, integrating Spring Boot microservices with industrial protocols
+  (Modbus, OPC-UA), improving operational efficiency by 35% and reducing manual
+  effort by 50%.
+- Secured 20+ enterprise APIs with role-based access control (RBAC) using Spring
+  Security and OAuth 2.0, reducing security vulnerabilities by 40%.
+- Built high-performance Angular SPAs (NgRx, RxJS) using a micro-frontend architecture
+  with Webpack Module Federation, cutting frontend deployment time by 45% and improving
+  UI load performance by 25%.
+- Optimized SQL Server and MongoDB queries through indexing and stored procedures, and
+  introduced JUnit and Mockito unit/integration tests to reduce production defects.
+- Orchestrated Dockerized microservices on AWS (EC2, S3, Lambda, CloudWatch) and
+  automated CI/CD pipelines with Gradle and Jenkins, reducing deployment time by 50%.
+- Collaborated in Agile/Scrum ceremonies and partnered with product and QA stakeholders
+  to deliver features on a 2-week release cadence.
+
+Stack: Java 17, Spring Boot, Spring Cloud, Microservices, REST APIs, OAuth2,
+Camunda BPMN, Angular, Kafka, SQL Server, MongoDB, Docker, AWS, Jenkins, Gradle,
+JUnit, Mockito.
+
+FactSet — Hyderabad, India | Jan 2020 – Jul 2022
+Software Engineer I
+
+- Engineered high-performance backend services using Java 11, Spring Boot, and JAX-RS
+  for the Payments & Finance (Transfer Funds / Money Movement) domain, improving bulk
+  data processing by 30% and reducing API response time by 25%.
+- Designed real-time payment processing APIs to handle SWIFT messages, improving
+  transaction speed, traceability, and reconciliation accuracy across correspondent
+  banking networks.
+- Built payment workflows for SWIFT transactions including message validation,
+  enrichment, and routing, enabling reliable cross-border money movement.
+- Delivered 12+ microservices exposing secure REST and GraphQL APIs, reducing
+  frontend over-fetching by 40% and improving client-side performance by 20%.
+- Developed money movement and transaction processing systems supporting 300K+ daily
+  financial transactions with strict data integrity and security controls.
+- Introduced Apache Kafka-based event-driven architecture, improving inter-service
+  throughput by 35% and enabling scalable asynchronous processing.
+- Created scalable React applications (Redux, ES6+) using reusable component
+  architecture, reducing feature development time by 30% and improving UI responsiveness
+  by 20%.
+- Tuned PostgreSQL, Oracle, and SQL Server queries through indexing and query
+  optimization, improving query performance by 40%.
+- Achieved 85%+ code coverage with JUnit and Mockito, reducing production defects 30%.
+- Containerized services with Docker and Kubernetes and deployed on AWS (EC2, S3,
+  Lambda), cutting release cycles by 50%.
+
+Stack: Java 8/11, Spring Boot, React, GraphQL, Apache Kafka, PostgreSQL, AWS,
+Docker, Kubernetes, JUnit, Mockito.
+
+PROJECTS
+
+Data2Model-AI — AutoML Assistant (https://data2model-ai.streamlit.app/)
+- Built and deployed an AI-powered AutoML assistant that analyzes datasets, recommends
+  ML models, and generates production-ready pipelines.
+- Integrated Flask, Streamlit, and LLM APIs to automate data understanding, model
+  selection, and explainability reporting.
+
+Social Media Application — MERN Stack (https://socialmediaapp-frontend.onrender.com/)
+- Built a full-stack MERN application with JWT authentication, image uploads, user post
+  feeds, and persistent login via Redux Persist.
+- Implemented Redux Toolkit state management, React Router navigation, and Formik + Yup
+  form validation.
+
+Wafer Fault Detection — ML Pipeline (https://waferfaultdetection-aws-production.up.railway.app/)
+- Developed an ML pipeline to predict wafer failures using KMeans, Random Forest,
+  and XGBoost.
+- Performed data cleaning, feature engineering, and model selection; deployed on AWS.
+
+CERTIFICATIONS
+- AWS Certified Generative AI Developer – Professional (AIP-C01)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Java Foundations Professional Certificate — JetBrains
+- IBM — AI Fundamentals: Foundations for Understanding AI
+- Microsoft Certified: Azure AI Engineer Associate (AI-102) — In Progress
+
+EDUCATION
+University of Cincinnati — Cincinnati, OH
+Master of Engineering in Computer Science | GPA: 3.9 / 4.0 | Aug 2022 – Apr 2024
